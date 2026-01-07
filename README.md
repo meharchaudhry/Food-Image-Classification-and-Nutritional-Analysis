@@ -1,4 +1,4 @@
-# Food-Image-Classification-and-Nutritional-Analysis
+
 
 # Food Image Classification & Nutrition Analysis (EfficientNet & ResNet)
 
